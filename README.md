@@ -76,7 +76,7 @@ Instructions for use
       - `SSA` is the *Specific Saturation Activity* (i.e. the activation rate per unit mass) to be provided together with its absolute uncertainty
       - `Atomic_mass` is the atomic (or molecular) mass of the element (or compound) of which the activated foil is composed. 
       - `Isotopic_Abundance` is the relative proportion of the target isotope, <ins>not</ins> to be provided in percent format (e.g. use 0.5, instead of 50%)
-      - The last column is used to provide files to correct for self-shielding or Cd cover effects (up to 1 MeV). These files contain the bin-by-bin ratios of the estimated activation rate in the real geometry versus the activation rate that would obtained in the absence of flux perturbations. The binning to be used for calculating the bin-by-bin ratios must be the same used for the guess spectrum. Write `NoSelfShielding` in the last column if no correction is needed.
+      - The last column is used to provide files to correct for self-shielding or Cd cover effects (up to 1 MeV). These files contain the bin-by-bin ratios of the estimated activation rate in the real geometry versus the activation rate that would obtained in the absence of flux perturbations. The binning to be used for calculating the bin-by-bin ratios must be the same used for the guess spectrum. Write `NoSelfShield` in the last column if no correction is needed.
       
       You can use `#` to comment a line.
          
