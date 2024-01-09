@@ -170,7 +170,7 @@ References
     
 2. D. Chiesa, et al.
     *Measurement of the neutron flux at spallation sources using multi-foil activation*,   
-    Nucl. Instrum. Meth. A, vol. 902, pp. 14–24, 2018  
+    Nucl. Instrum. Meth. A, vol. 902, pp. 14–24, 2018.  
     DOI: https://doi.org/10.1016/j.nima.2018.06.016
     
 3. D. Chiesa, et al. 
@@ -180,7 +180,6 @@ References
    
 4. D. Chiesa, et al. 
    *Measurements of neutron fields in a wide energy range using multi-foil activation analysis*,  
-   Submitted to the IEEE TNS for possible publication.  
-   https://arxiv.org/abs/2110.05073
-
+   IEEE Trans. Nucl. Sci., vol. 69, no. 7, pp. 1659–1666, 2022.  
+   DOI: https://doi.org/10.1109/TNS.2021.3138636
    
